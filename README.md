@@ -1,2 +1,6 @@
 # docker-mustache
-Simple Docker image for running mustache
+Simple docker image for running mustache
+
+This docker image includes:
+* bash
+* [mo](https://mustache.github.io/) command
